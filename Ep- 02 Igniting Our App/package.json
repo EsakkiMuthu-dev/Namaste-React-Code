@@ -1,0 +1,11 @@
+{
+  "name": "parcelapp",
+  "version": "1.0.0",
+  "description": "lets ignite our react app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Esakki Muthu E",
+  "license": "ISC"
+}
