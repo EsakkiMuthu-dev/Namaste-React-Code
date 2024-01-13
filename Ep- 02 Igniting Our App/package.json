@@ -1,11 +1,10 @@
 {
-  "name": "parcelapp",
-  "version": "1.0.0",
-  "description": "lets ignite our react app",
-  "main": "app.js",
-  "scripts": {
-    "test": "jest"
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
   },
-  "author": "Esakki Muthu E",
-  "license": "ISC"
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }

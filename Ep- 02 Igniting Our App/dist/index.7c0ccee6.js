@@ -1,0 +1,8 @@
+const h1 = React.createElement("h1", {
+    "id": "heading"
+}, "Hello World from React!!! .... ");
+console.log(h1);
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(h1);
+
+//# sourceMappingURL=index.7c0ccee6.js.map
